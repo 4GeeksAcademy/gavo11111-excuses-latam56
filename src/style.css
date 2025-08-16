@@ -3,3 +3,10 @@
 body{
     background: white;
 }
+
+#excuse {
+font-family: cursive;
+font-weight: 100;
+font-size: larger;
+font-style: italic;
+}
