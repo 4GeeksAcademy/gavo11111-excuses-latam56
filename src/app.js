@@ -25,12 +25,8 @@ window.onload = function() {
   document.querySelector('#excuse').innerHTML = getRandom(who) + " " + getRandom(action) + " " + getRandom(what) + " " + getRandom(when)
   };
 
- // const excuseElement = document.querySelector (`#excuse ${when}`) 
-  //const excuse = "Me comió la tarea el perro"
-  //excuseElement.innerText = //
-  
 
 
 
 
-//(`#excuse ${when}`) /7 eso va despues de queryselector 
+
